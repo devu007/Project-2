@@ -1,2 +1,2 @@
 # Project-2
-IMDB clone
+Movie App
